@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.flugel_path.twa",
+      "sha256_cert_fingerprints": [
+        "78:69:AD:F5:19:FC:99:F2:6A:FB:15:83:7F:4B:FD:63:D5:C5:60:AD:12:9D:86:38:42:E5:49:B7:5B:7E:9A:00"
+      ]
+    }
+  }
+]
